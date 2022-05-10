@@ -1,1 +1,1 @@
-# Machine_Learning-Regressão_Linear
+Através da Regressão Linear, treinei um modelo para que pudesse limitar uma quantidade de empréstimo que uma pessoa poderia receber dado o salário que ela possui. Modelos como esse são muito utilizados no mercado financeiro, bancos, fintechs. 
